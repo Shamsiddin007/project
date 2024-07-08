@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    max-width: 1539px;
+    /* background-color: red; */
+    margin: auto;
+    padding: 0;
+}

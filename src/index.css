@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1530px;
+    margin: auto;
+    padding: 0;
+    background-color: red;
+    height: 100vh;
+}
